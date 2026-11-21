@@ -1,1 +1,0 @@
-<resources><style name="Theme.VeltraX" parent="android:style/Theme.Material.NoActionBar"><item name="android:windowLightStatusBar">false</item><item name="android:statusBarColor">#080811</item><item name="android:navigationBarColor">#080811</item></style></resources>
