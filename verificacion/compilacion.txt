@@ -1,0 +1,5 @@
+JDK 17 · Gradle 8.14.3 · AGP 8.11.1 · Kotlin 2.2.20 · SDK 35
+:core:test :androidApp:assembleDebug :androidApp:assembleDebugAndroidTest :androidApp:lintDebug
+BUILD SUCCESSFUL in 1m 29s
+75 actionable tasks: 21 executed, 54 up-to-date
+0 errors, 51 warnings

@@ -1,0 +1,19 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: C=US, O=Android, CN=Android Debug
+Signer #1 certificate SHA-256 digest: f44245442d275dff6a9162a852381811a4ef4fb3c1b21880c0f36c0ef8ca92bf
+Signer #1 certificate SHA-1 digest: cd9c2de838483c6258731fbdc2660c3683c2b169
+Signer #1 certificate MD5 digest: 07da0f618dedf8ff9e81f298a98460eb
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: cb16adbd20f87ae1438138c2399b3281555c78fcf959764856679a746caf185d
+Signer #1 public key SHA-1 digest: 8b91b9ea44627a48d0471bc87166745d2bab3920
+Signer #1 public key MD5 digest: ee8bd701454d02a4bb6349f8259eadb8
+
+Certificado de VeltraX 2.1: f44245442d275dff6a9162a852381811a4ef4fb3c1b21880c0f36c0ef8ca92bf

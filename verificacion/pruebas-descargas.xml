@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.veltrax.core.DirectAudioDownloaderTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-11-15T15:13:50.049Z" hostname="0233d270d60c" time="0.335">
+  <properties/>
+  <testcase name="serverErrorsIncludeHttpStatus" classname="com.veltrax.core.DirectAudioDownloaderTest" time="0.137"/>
+  <testcase name="serverWithoutRangesDownloadsNormally" classname="com.veltrax.core.DirectAudioDownloaderTest" time="0.044"/>
+  <testcase name="pauseOnLastByteCanResumeWithoutHttp416" classname="com.veltrax.core.DirectAudioDownloaderTest" time="0.025"/>
+  <testcase name="htmlResponseIsRejected" classname="com.veltrax.core.DirectAudioDownloaderTest" time="0.005"/>
+  <testcase name="insufficientStorageReportsErrorBeforeWritingAudio" classname="com.veltrax.core.DirectAudioDownloaderTest" time="0.007"/>
+  <testcase name="segmentedDownloadPreservesEveryByte" classname="com.veltrax.core.DirectAudioDownloaderTest" time="0.089"/>
+  <testcase name="refusedRangeAfterPauseStartsFromZero" classname="com.veltrax.core.DirectAudioDownloaderTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

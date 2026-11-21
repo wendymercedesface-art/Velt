@@ -1,0 +1,11 @@
+Performing Streamed Install
+Success
+Performing Streamed Install
+Success
+Success
+OK
+Cola, simultaneidad, pausa, reanudación, duplicado y URL inválida
+HTTP 404, HTTP 503 acotado, conexión interrumpida y archivo idéntico
+Playlist de 1200 pistas y reproducción en segundo plano
+OK
+Transferencia persistida antes del reinicio
